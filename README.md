@@ -1,4 +1,4 @@
-# **Stock Price Prediction (for Apple)**
+# **Stock Price Prediction (for Apple Inc.)**
 
 ## **Problem Definition**
 
